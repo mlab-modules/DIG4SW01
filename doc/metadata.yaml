@@ -1,0 +1,15 @@
+description: Switch for voltage from 3.4 V to 40 V. Resistance in spliced state 160
+  mOhm. Integrated circuit TPS4H160.
+github_branch: DIG4SW01A
+github_description: Switch for voltage from 3.4 V to 40 V. Resistance in spliced state
+  160 mOhm. Integrated circuit TPS4H160.
+github_repo: DIG4SW01
+github_url: https://github.com/mlab-modules/DIG4SW01
+homepage: false
+images:
+- doc/img/DIG4SW01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: DIG4SW01
+updated: '2023-09-17T11:34:32.464479+00:00'

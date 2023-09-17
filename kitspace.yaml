@@ -1,0 +1,9 @@
+bom: hw/sch_pcb/DIG4SW01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/DIG4SW01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/DIG4SW01
+summary: Switch for voltage from 3.4 V to 40 V. Resistance in spliced state 160 mOhm.
+  Integrated circuit TPS4H160.
