@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","CONN1_1","WAGO256",17.0180,7.8740,90.0000,top
+"J2","CONN1_1","WAGO256",11.9380,7.8740,90.0000,top
+"J3","CONN1_2","Straight_1x02",29.7180,21.5900,90.0000,top
+"J4","JUMP_2x1","Straight_2x01",5.0800,28.9560,0.0000,top
+"J5","JUMP_2x1","Straight_2x01",13.2080,36.0680,90.0000,top
+"J6","JUMP_2x1","Straight_2x01",5.0800,13.7160,0.0000,top
+"J7","JUMP_2x1","Straight_2x01",5.0800,16.2560,0.0000,top
+"J8","JUMP_2x1","Straight_2x01",5.0800,18.7960,0.0000,top
+"J9","JUMP_2x1","Straight_2x01",5.0800,21.3360,0.0000,top
+"J10","JUMP_2x1","Straight_2x01",5.0800,23.8760,0.0000,top
+"J11","JUMP_2x1","Straight_2x01",5.0800,26.4160,0.0000,top
+"J12","JUMP_2x1","Straight_2x01",18.2880,36.0680,90.0000,top
+"J13","JUMP_2x1","Straight_2x01",15.7480,36.0680,90.0000,top
+"J14","JUMP_4X2","Straight_2x04",25.4000,4.8260,90.0000,top
+"J15","JUMP_4X2","Straight_2x04",35.5600,14.7320,0.0000,top
+"J16","JUMP_4X2","Straight_2x04",35.5600,25.9080,0.0000,top
+"J17","JUMP_4X2","Straight_2x04",25.4000,35.5600,90.0000,top
+"J18","JUMP_2x1","Straight_2x01",5.0800,11.1760,0.0000,top
+"M1","HOLE","MountingHole_3mm",5.0800,5.0800,0.0000,top
+"M2","HOLE","MountingHole_3mm",35.5600,5.0800,0.0000,top
+"M3","HOLE","MountingHole_3mm",35.5600,35.5600,0.0000,top
+"M4","HOLE","MountingHole_3mm",5.0800,35.5600,0.0000,top
