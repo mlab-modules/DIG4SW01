@@ -7,9 +7,18 @@ github_repo: DIG4SW01
 github_url: https://github.com/mlab-modules/DIG4SW01
 homepage: false
 images:
+- doc/gen/img/DIG4SW01-top.png
+- doc/gen/img/DIG4SW01-bottom.png
 - doc/img/DIG4SW01A_QRcode.png
+- doc/gen/DIG4SW01-schematic.svg
+- doc/gen/img/DIG4SW01-bottom.svg
+- doc/gen/img/DIG4SW01-top.svg
+- hw/cam_profi/assembly/DIG4SW01-assembly_page_01.svg
+- hw/cam_profi/assembly/DIG4SW01-assembly_page_02.svg
 mark: 50
+mod_ibom: hw/cam_profi/DIG4SW01-ibom.html
+mod_scheme: doc/gen/DIG4SW01-schematic.pdf
 status: 0
 tags: []
 title: DIG4SW01
-updated: '2024-07-06T19:30:07.912629+00:00'
+updated: '2024-07-06T19:32:06.644000+00:00'
